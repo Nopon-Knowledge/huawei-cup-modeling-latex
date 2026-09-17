@@ -1,0 +1,37 @@
+# LaTeX build intermediates
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.run.xml
+*.synctex*
+*.toc
+*.xdv
+*.lof
+*.lot
+*.nav
+*.snm
+*.vrb
+
+# Local scratch files and historical backups
+/tmp/
+/reference/2026/before-doc-alignment/
+/figures/logo202[1-5].pdf
+/figures/title202[1-5].pdf
+/figures/title2026.tex
+/附件3：“华为杯”第二十二届中国研究生数学建模竞赛论文模板.doc
+/#delete-temp-files.bat
+
+# Editor / operating-system files
+.DS_Store
+._*
+~$*
+*.swp
+*.bak
+__pycache__/
+*.pyc
+.venv/

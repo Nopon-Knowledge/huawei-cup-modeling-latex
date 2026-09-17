@@ -1,0 +1,30 @@
+{
+  "example.pdf": {
+    "pages": 11,
+    "static_ink_overlap_with_one_pixel_tolerance": {
+      "cover_logos_and_heading": 1.0,
+      "cover_labels_and_rules": 1.0,
+      "abstract_heading": 1.0,
+      "abstract_title_label": 1.0,
+      "abstract_label": 1.0
+    },
+    "max_sampled_position_error_bp": 0.009033,
+    "footer_baseline_bp": 790.32,
+    "body_size_bp": 12.0,
+    "status": "PASS"
+  },
+  "example-color.pdf": {
+    "pages": 11,
+    "static_ink_overlap_with_one_pixel_tolerance": {
+      "cover_logos_and_heading": 1.0,
+      "cover_labels_and_rules": 1.0,
+      "abstract_heading": 1.0,
+      "abstract_title_label": 1.0,
+      "abstract_label": 1.0
+    },
+    "max_sampled_position_error_bp": 0.009033,
+    "footer_baseline_bp": 790.32,
+    "body_size_bp": 12.0,
+    "status": "PASS"
+  }
+}
